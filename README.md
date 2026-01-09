@@ -53,7 +53,7 @@ python magnets/train.py --help
 ```
 dashboard/
 └── app.py: streamlit app for interactive visualizations
-datasets/: dataset files [COMING SOON]
+datasets/: dataset files
 magnets/
 ├── data/: dataset loading classes
 ├── models/: model implementations
